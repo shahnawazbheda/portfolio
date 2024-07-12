@@ -97,7 +97,7 @@ export default function About() {
                             <div className='flex mt-10'>
                                 <a href='https://drive.google.com/file/d/1Nq_1idGoWbIf7UkpBZTz1z8D1lEa4Ol-/view' type='submit' className='bg-blue-600 rounded-md p-3 sm:w-56 font-bold text-white mt-8 sm:ms-44 flex'><AiOutlineFilePdf className='sm:ms-12 mt-1' /><span className='ms-2'>Resume</span></a>
 
-                                <a href='https://in.linkedin.com/in/twisha-solanki-982326227?trk=public_profile_browsemap' type='submit' className='bg-green-500 rounded-md p-3 sm:w-56 font-bold text-white mt-8 sm:ms-10  ms-5  flex '><FaUserPlus className='sm:ms-12 mt-1' /><span className='ms-2'>Hire Me</span></a>
+                                <a href='https://www.linkedin.com/in/shahnawaz-bheda-7771141a3/?originalSubdomain=in' type='submit' className='bg-green-500 rounded-md p-3 sm:w-56 font-bold text-white mt-8 sm:ms-10  ms-5  flex '><FaUserPlus className='sm:ms-12 mt-1' /><span className='ms-2'>Hire Me</span></a>
                             </div>
 
                         </div>
